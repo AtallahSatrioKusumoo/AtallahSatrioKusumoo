@@ -41,10 +41,6 @@ I like turning repetitive security work into small, reliable automations so more
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 📌 Featured Work
-
-🔹 **[Automation-Monty-Report](https://github.com/AtallahSatrioKusumoo/Automation-Monty-Report)**: Python automation that pulls data from Google Sheets and generates a monthly report.
-
 ## 🌱 Currently
 
 🔹 Building automation around vulnerability assessment reporting
